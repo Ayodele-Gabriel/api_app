@@ -1,7 +1,11 @@
 # api_app
 
-1 - This app makes use of the http package for making api calls
-2 - It also makes use of the AsynNotifier and Provider available from the Riverpod package to manage the state of api calls
+1 - This app makes use of the http package for making api calls.
+
+
+2 - It also makes use of the AsynNotifier and Provider available from the Riverpod package to manage the state of api calls.
+
+
 3 - It uses the Jsonplaceholder Typicode to fetch users and posts and the Lorem Ipsum picsum for photos.
 
 
