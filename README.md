@@ -9,6 +9,8 @@
 3 - It uses the Jsonplaceholder Typicode to fetch users and posts and the Lorem Ipsum picsum for photos.
 
 
+https://www.loom.com/share/14cd464a9f3d40fc860070f6a2a385d8?sid=efb5d745-00f3-4d7c-bc41-904d8ff63b35
+
 <img width="1440" height="900" alt="Screenshot 2025-08-17 at 10 23 46" src="https://github.com/user-attachments/assets/cbb93492-32e6-48e7-96f3-3710322e5ae2" />
 <img width="1440" height="900" alt="Screenshot 2025-08-17 at 10 23 39" src="https://github.com/user-attachments/assets/4f9fdf98-4ab9-4db6-bdf4-67984480d5c6" />
 <img width="1440" height="900" alt="Screenshot 2025-08-17 at 10 23 19" src="https://github.com/user-attachments/assets/894aedcc-fabc-4b02-854d-81089fa58f21" />
